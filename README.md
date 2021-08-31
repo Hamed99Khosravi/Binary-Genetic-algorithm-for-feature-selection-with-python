@@ -5,4 +5,4 @@ One of the most advanced algorithms for feature selection is the genetic algorit
 
 Here you can use the code for binary genetic algorithm in python .
 The explanation is provided ,too . Furthermore, you are offered to realize whether the feature selection has helped you .
-In this regard,you can compare the performance of the model after feature selection with before doing it. 
+In this regard,you can compare the performance of the model after feature selection with its performance with all features. 
