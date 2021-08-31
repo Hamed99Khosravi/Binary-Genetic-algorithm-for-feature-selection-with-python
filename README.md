@@ -4,4 +4,5 @@ The volume of data with high features are increasing in many different fields cr
 One of the most advanced algorithms for feature selection is the genetic algorithm.
 
 Here you can use the code for binary genetic algorithm in python .
-The explanation is provided ,too .  
+The explanation is provided ,too . Furthermore, you are offered to realize whether the feature selection has helped you .
+You can compare the AIC(the formula is provided in the code) of your certain model with and without feature selection. 
